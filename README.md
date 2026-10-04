@@ -20,6 +20,3 @@ Built with Python and PostgreSQL on Odoo 19.
 - `models/` - book and loan models
 - `views/` - list/form views, actions, and menus
 - `security/` - access rules
-
-## Screenshots
-(add screenshots here)
